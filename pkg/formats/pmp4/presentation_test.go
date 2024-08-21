@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/bluenviron/mediacommon/pkg/codecs/mpeg4audio"
-	"github.com/bluenviron/mediacommon/pkg/formats/fmp4"
+	"github.com/harik13/mediacommon/pkg/codecs/mpeg4audio"
+	"github.com/harik13/mediacommon/pkg/formats/fmp4"
 	"github.com/stretchr/testify/require"
 )
 

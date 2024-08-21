@@ -9,11 +9,11 @@ import (
 
 	"github.com/asticode/go-astits"
 
-	"github.com/bluenviron/mediacommon/pkg/codecs/ac3"
-	"github.com/bluenviron/mediacommon/pkg/codecs/h264"
-	"github.com/bluenviron/mediacommon/pkg/codecs/h265"
-	"github.com/bluenviron/mediacommon/pkg/codecs/mpeg1audio"
-	"github.com/bluenviron/mediacommon/pkg/codecs/mpeg4audio"
+	"github.com/harik13/mediacommon/pkg/codecs/ac3"
+	"github.com/harik13/mediacommon/pkg/codecs/h264"
+	"github.com/harik13/mediacommon/pkg/codecs/h265"
+	"github.com/harik13/mediacommon/pkg/codecs/mpeg1audio"
+	"github.com/harik13/mediacommon/pkg/codecs/mpeg4audio"
 )
 
 // ReaderOnDecodeErrorFunc is the prototype of the callback passed to OnDecodeError.

@@ -3,7 +3,7 @@ package ac3
 import (
 	"fmt"
 
-	"github.com/bluenviron/mediacommon/pkg/bits"
+	"github.com/harik13/mediacommon/pkg/bits"
 )
 
 // BSI is a Bit Stream Information.

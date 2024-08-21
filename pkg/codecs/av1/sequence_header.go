@@ -3,7 +3,7 @@ package av1
 import (
 	"fmt"
 
-	"github.com/bluenviron/mediacommon/pkg/bits"
+	"github.com/harik13/mediacommon/pkg/bits"
 )
 
 // SequenceHeader_ColorPrimaries is a ColorPrimaries value.

@@ -4,10 +4,10 @@ import (
 	"fmt"
 
 	"github.com/abema/go-mp4"
-	"github.com/bluenviron/mediacommon/pkg/codecs/av1"
-	"github.com/bluenviron/mediacommon/pkg/codecs/h264"
-	"github.com/bluenviron/mediacommon/pkg/codecs/h265"
-	"github.com/bluenviron/mediacommon/pkg/formats/fmp4"
+	"github.com/harik13/mediacommon/pkg/codecs/av1"
+	"github.com/harik13/mediacommon/pkg/codecs/h264"
+	"github.com/harik13/mediacommon/pkg/codecs/h265"
+	"github.com/harik13/mediacommon/pkg/formats/fmp4"
 )
 
 // Specification: ISO 14496-1, Table 5
